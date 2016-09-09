@@ -2,3 +2,4 @@
 my first repository
 
 Hi, I am Sudhir. I love egg fried rice and noodles
+Fried eggs are also ok 
